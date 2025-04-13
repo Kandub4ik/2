@@ -1,20 +1,106 @@
 body{
-    font-family: roboto; 
-    color:#434455 ;
+    font-family: roboto, sans-serif;
+    color:#FFFFFF;
+ }
+ .span-header {
+    color: #2e2f42;
  }
  .link-header {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;    
     color: #2e2f42;
  }
  .link-contact {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
  }
 .section-one {
     background-color: #2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 .section-one-text {
     color: #ffffff;
 }
 .button{
+    font-family: roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background-color: #4d5ae5;
     color: #ffffff;
+    cursor: pointer;
+}
+.section-two-paragraph {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-two-text {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.section-three-chapter {
+    background-color: #f4f4fd;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.section-three-paragraph {
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px; 
+    line-height: 1.2;
+    color: #2e2f42;  
+}
+.section-three-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+.section-four-chapter{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.section-four-paragraph {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-four-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+footer{
+    background-color: #2e2f42;
+
+}
+.footer-text{
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }
