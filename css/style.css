@@ -1,6 +1,7 @@
 body{
-    font-family: roboto, sans-serif;
-    color:#FFFFFF;
+    font-family: "roboto", sans-serif;
+    color:#434455;
+    background-color: #FFFFFF;
  }
  .span-header {
     color: #2e2f42;
@@ -30,7 +31,7 @@ body{
     color: #ffffff;
 }
 .button{
-    font-family: roboto, sans-serif;
+    font-family: "roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -48,11 +49,17 @@ body{
 }
 .section-two-text {
     font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.section-three-block {
+    background-color: #f4f4fd
+}
+.section-three-block-manager {
+background-color: #FFFFFF;
+}
 .section-three-chapter {
-    background-color: #f4f4fd;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -61,10 +68,10 @@ body{
     color: #2e2f42;
 }
 .section-three-paragraph {
-    background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px; 
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;  
 }
 .section-three-text{
