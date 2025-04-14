@@ -47,14 +47,17 @@
  }
 
  .address-link-color {
+    font-style: normal;
     color: #434455;
  }
 
 
  .address-link-color:hover {
+    font-style: normal;
     color: #404bbf;
  }
  .address-link-color:focus {
+    font-style: normal;
      color: #404bbf;
  }
 
