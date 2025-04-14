@@ -1,11 +1,23 @@
 body{
-    font-family: "roboto", sans-serif;
+    font-family: 'roboto', sans-serif;
     color:#434455;
     background-color: #FFFFFF;
  }
- .span-header {
+
+ .header-logo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+ }
+
+ .header-span {
     color: #2e2f42;
  }
+
  .link-header {
     font-weight: 500;
     font-size: 16px;
@@ -13,6 +25,7 @@ body{
     letter-spacing: 0.02em;    
     color: #2e2f42;
  }
+
  .link-contact {
     font-style: normal;
     font-size: 16px;
@@ -20,6 +33,7 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
  }
+
 .section-one {
     background-color: #2e2f42;
     font-size: 56px;
@@ -27,11 +41,13 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
 }
+
 .section-one-text {
     color: #ffffff;
 }
+
 .button{
-    font-family: "roboto", sans-serif;
+    font-family: 'roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -40,6 +56,7 @@ body{
     color: #ffffff;
     cursor: pointer;
 }
+
 .section-two-paragraph {
     font-weight: 500;
     font-size: 20px;
@@ -47,18 +64,22 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .section-two-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .section-three-block {
     background-color: #f4f4fd
 }
+
 .section-three-block-manager {
 background-color: #FFFFFF;
 }
+
 .section-three-chapter {
     font-size: 36px;
     line-height: 1.11;
@@ -67,6 +88,7 @@ background-color: #FFFFFF;
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .section-three-paragraph {
     font-weight: 500;
     font-size: 20px; 
@@ -74,12 +96,14 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #2e2f42;  
 }
+
 .section-three-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02;
     color: #434455;
 }
+
 .section-four-chapter{
     font-size: 36px;
     line-height: 1.11;
@@ -88,6 +112,7 @@ background-color: #FFFFFF;
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .section-four-paragraph {
     font-weight: 500;
     font-size: 20px;
@@ -95,16 +120,32 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .section-four-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
+
 footer{
     background-color: #2e2f42;
-
 }
+
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    }
+
+    .footer-span {
+color: #f4f4fd;
+    }
+
 .footer-text{
     font-size: 16px;
         line-height: 1.5;
