@@ -26,28 +26,35 @@
     color: #2e2f42;
  }
 
- .link-header .link:hover {
+ .link-header-color {
+    color: #2e2f42;
+ }
+ .link-header-color:hover {
     color: #404bbf;
 }
  
- .link-header .link:focus {
+ .link-header-color:focus {
     color: #404bbf;
 }
  
 
  .address-link {
-font-style: normal;
-font-size: 16px;
+    font-style: normal;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
  }
 
- .address-link .link:hover {
-    color: #404bbf;
+ .address-link-color {
+    color: #434455;
  }
 
- .address-link .link:focus {
+
+ .address-link-color:hover {
+    color: #404bbf;
+ }
+ .address-link-color:focus {
      color: #404bbf;
  }
 
