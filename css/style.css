@@ -1,5 +1,5 @@
 .body{
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#434455;
     background-color: #FFFFFF;
  }
@@ -26,15 +26,29 @@
     color: #2e2f42;
  }
 
+ .link-header .link:hover {
+    color: #404bbf;
+}
+ 
+ .link-header .link:focus {
+    color: #404bbf;
+}
+ 
+
  .address-link {
 font-style: normal;
- }
-
- .link-contact {
-    font-size: 16px;
+font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+ }
+
+ .address-link .link:hover {
+    color: #404bbf;
+ }
+
+ .address-link .link:focus {
+     color: #404bbf;
  }
 
 .section-one {
@@ -50,7 +64,7 @@ font-style: normal;
 }
 
 .button{
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
