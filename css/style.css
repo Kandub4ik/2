@@ -37,6 +37,9 @@
     color: #404bbf;
 }
  
+.address-normal {
+    font-style: normal;
+}
 
  .address-link {
     font-style: normal;
@@ -91,7 +94,7 @@ background-color: #404bbf;
 .button:focus{
     background-color: #404bbf;
 }
-s
+
 .section-two-paragraph {
     font-weight: 500;
     font-size: 20px;
