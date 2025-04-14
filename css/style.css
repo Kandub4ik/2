@@ -1,4 +1,4 @@
-body{
+.body{
     font-family: 'roboto', sans-serif;
     color:#434455;
     background-color: #FFFFFF;
@@ -36,13 +36,13 @@ body{
 
 .section-one {
     background-color: #2e2f42;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-}
+   }
 
 .section-one-text {
+    font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
     color: #ffffff;
 }
 
@@ -100,7 +100,7 @@ background-color: #FFFFFF;
 .section-three-text{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -128,7 +128,7 @@ background-color: #FFFFFF;
     color:#434455;
 }
 
-footer{
+.footer{
     background-color: #2e2f42;
 }
 
